@@ -11,4 +11,6 @@ Ensure all required Python libraries and packages:
     pip install dash
 
 
-These will be required for the analysis. To run the code, download all the necessary datasets and files. Open an integrated development environment, such as Visual Studio Code, and load the files. Run the python file named "main" which contains the Dash application. Upon running the file, in terminal, ctrl+click the link provided. The application with open in your local web browser. The dashboard will be presented and the user can interact with the drop-downs, sliders, and play button to return results. To exit the application, go to terminal and click ctrl+C.
+These will be required for the analysis. To run the code, simply go to VSCode and go to Source Control. Click on "Clone Repository". Copy and paste the link https://github.com/jsupino/CarbonEmissions into the search bar. Find a save location and then open the files. Run the python file, "main", which contains the Dash application. Upon running the file, in terminal, ctrl+click the link provided. The application with open in your local web browser. The dashboard will be presented and the user can interact with the drop-downs, sliders, and play button to return results. To exit the application, go to terminal and click ctrl+C.
+
+If this does not work, you can also download the datasets and files. Then open an integrated development environment, such as VSCode, and load the files. 
